@@ -39,4 +39,4 @@ A jako nit se opět vine skutečnost, že rozhodování o tom kdo, jak a proč j
 
 ## Chytrá tečka na závěr
 
-Radost nám udělalo alespoň schválení vzniku komise pro smart city. Vnímáme jako důležité, aby se naše město posunulo do 21. století. Samotný termín bývá často zneužíván pro různé „chytré“ lavičky a podobné předražené nesmysly. V našem pojetí je jedním z pilířů digitalizace veřejné správy, abyste kvůli každému papíru nemuseli chodit na magistrát. I mnohem menší města již mají své vlastní portály občana, kam se dá přihlásit pomocí datové schránky nebo občanským průkazem s čipem. Zkrátka má lítat papír a ne vy.
+Radost nám udělalo alespoň schválení vzniku komise pro smart city. Vnímáme jako důležité, aby se naše město posunulo do 21. století. Samotný termín bývá často zneužíván pro různé „chytré“ lavičky a podobné předražené nesmysly. V našem pojetí je jedním z pilířů digitalizace veřejné správy, abyste kvůli každému papíru nemuseli chodit na magistrát. I mnohem menší města již mají své vlastní portály občana, kam se dá přihlásit pomocí datové schránky nebo občanským průkazem s čipem. Zkrátka má lítat papír a ne vy :-).
